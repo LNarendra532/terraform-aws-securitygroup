@@ -17,7 +17,7 @@ variable "sg_tags" {
   
 }
 
-variable "description" {
+variable "sg_description" {
     type = string
 }
 
